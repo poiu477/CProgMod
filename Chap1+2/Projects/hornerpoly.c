@@ -1,4 +1,4 @@
-/* Evaluates a polynomial, based on a given value of x*/
+/* Evaluates a polynomial, based on a given value of x using Horner's Polynomial algorithm*/
 
 #include <stdio.h>
 
